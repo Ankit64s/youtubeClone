@@ -1,10 +1,11 @@
 # youtubeClone
 
 Hosted Link:
-
+https://ankit64s.github.io/youtubeClone/
 
 Snapshot:
 
+![image](https://github.com/Ankit64s/youtubeClone/assets/44794402/0a3bf7b9-20b4-4278-8905-b0eb20d5377f)
 
 
 Tags & CSS USED:
